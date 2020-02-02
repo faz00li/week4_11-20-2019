@@ -1,0 +1,31 @@
+
+
+
+///sites///
+https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048
+
+///BASH///
+history > history.txt + CMD F -> to search
+open . -> open in explorer
+rm -P -> overwrite w/ 0xff
+unzip
+
+///EXPLORER///
+CMD SHFT . -> show hidden files
+
+///Chrome///
+CTRL SHFT T -> re-open all tabs
+CMD ALT J -> toggle console
+
+
+///Atom///
+lorem auto complete
+
+
+///JS/jQuery///
+
+A falsy value is something which evaluates to FALSE, for instance when checking a variable. There are only six falsey values in JavaScript: undefined , null , NaN , 0 , "" (empty string), and false of course.
+
+.parseInt()
+
+event.preventDefault() -> submit

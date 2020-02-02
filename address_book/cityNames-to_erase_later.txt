@@ -1,0 +1,16 @@
+var pdx = {name: "Portland"};
+var sfo = {name: "San Fransisco"};
+var sea = {name: "Seattle"};
+var csp = {name: "Aktau"};
+var dzn = {name: "Zhezkazgan"};
+var mlz = {name: "Melo"};
+
+var usa = { name: "United States of America", cities: [pdx, sfo, sea] };
+var kazakhstan = { name: "Kazakhstan" };
+var uruguay = { name: "Uruguay" };
+uruguay.cities.push(mlz);
+
+usa.cities.forEach(function(city) {
+
+  console.log(city.name);
+});

@@ -1,0 +1,50 @@
+
+
+
+h1 {
+  font-size: 7em;
+  text-align: center;
+}
+
+.p1 {
+  text-align: left;
+}
+
+.p2 {
+  text-align: right;
+}
+
+span {
+  vertical-align: bottom;
+}
+.square {
+  min-height: 200px;
+  max-height: 200px;
+  border-style: groove;
+  border-color: black;
+}
+
+.markerX {
+
+  font-size: 6em;
+  display: none;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+
+}
+
+.markerO {
+
+  font-size: 6em;
+  display: none;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
